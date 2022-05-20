@@ -1,5 +1,5 @@
 {
-    "name": "fruitcake/laravel-cors",
+    "name": "gfacility/laravel-cors",
     "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
     "keywords": ["laravel", "cors", "crossdomain", "api"],
     "license": "MIT",
@@ -19,7 +19,7 @@
         "illuminate/contracts": "^6|^7|^8|^9",
         "symfony/http-foundation": "^4|^5",
         "symfony/http-kernel": "^4.3.4|^5",
-        "asm89/stack-cors": "^2.0.1"
+        "gfacility/stack-cors": "^2.0.11"
     },
     "require-dev": {
         "laravel/framework": "^6|^7.24|^8",
